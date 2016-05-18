@@ -1,2 +1,6 @@
+<<<<<<< eba33803b5b86c9d4bb44a9356eb49b491f774fe
 ban code dau tien
 sua
+=======
+ban code dau tient sua phan nay nha
+>>>>>>> second commit
